@@ -3,6 +3,12 @@ venv
 
 # Data
 *.parquet
+*.pkl
+
+# Mlflow
+*.db
+mlruns
+mlflow_artifacts
 
 # Notebooks
 .ipynb_checkpoints
